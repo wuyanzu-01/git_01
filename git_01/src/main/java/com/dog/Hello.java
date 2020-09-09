@@ -13,9 +13,7 @@ public class Hello {
         System.out.println("das");
         System.out.println("dfs");
         System.out.println("cvx");
-        System.out.println("sdfs");
 
-        System.out.println("fdds");
     }
 
 }
